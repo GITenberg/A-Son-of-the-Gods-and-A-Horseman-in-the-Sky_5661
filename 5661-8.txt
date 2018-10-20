@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of A Son of the Gods, and A Horseman in the Sky, by 
+The Project Gutenberg EBook of A Son of the Gods, and A Horseman in the Sky, by
 Ambrose Bierce
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -479,7 +479,7 @@ His first feeling was a keen artistic delight. On a colossal pedestal,
 the cliff,--motionless at the extreme edge of the capping rock
 and sharply outlined against the sky,--was an equestrian statue of
 impressive dignity. The figure of the man sat the figure of the horse,
-straight and soldierly, but with the repose of a Grecian god carted in
+straight and soldierly, but with the repose of a Grecian god carved in
 the marble which limits the suggestion of activity. The gray costume
 harmonized with its aerial background; the metal of accoutrement and
 caparison was softened and subdued by the shadow; the animal's skin had
@@ -608,6 +608,8 @@ crept cautiously to him on hands and knees. Druse neither turned his
 head nor looked at him, but lay without motion or sign of recognition.
 
 "Did you fire?" the sergeant whispered.
+
+"Yes."
 
 "At what?"
 
